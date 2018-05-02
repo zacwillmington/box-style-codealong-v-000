@@ -314,7 +314,8 @@ header å{
 }
 
 #navbar nav a:hover {
-    color: #333;
+    color: white;
+    background: #333;
 
 }
 

@@ -283,6 +283,8 @@ header å{
 /*////////// NAVBAR //////////*/
 
 #navbar {
+    position: fixed;
+    top: 0;
     
 }
 

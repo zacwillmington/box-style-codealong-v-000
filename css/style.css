@@ -131,7 +131,7 @@ figcaption {
     ); /* W3C */
 }
 
-.navbar {
+/*.navbar {
     /* NAVBAR-HOVER */
 
     background: rgb(0, 0, 0); /* Old browsers */
@@ -197,7 +197,7 @@ figcaption {
       rgba(28, 28, 28, 1) 91%,
       rgba(0, 0, 0, 1) 100%
     ); /* W3C */
-}
+}*/
 
 
 /*/////// MEDIA ////////*/

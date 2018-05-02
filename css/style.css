@@ -313,7 +313,7 @@ header å{
     color: white;
 }
 
-#navbar nav a:hover {
+#navbar nav a::hover {
     color: white;
     
 }

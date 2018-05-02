@@ -29,7 +29,7 @@ figcaption {
 }
 
 .shadow {
-    box-shadow: 0 3px;
+    box-shadow: 0 3px #333;
 }
 
 /*////////// BACKGROUNDS //////////*/

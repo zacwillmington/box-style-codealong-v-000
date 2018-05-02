@@ -312,6 +312,13 @@ header å{
     background: #333;
     color: white;
 }
+
+#navbar nav a:hover {
+    color: white;
+    
+}
+
+
 /*////////// LOGO //////////*/
 
 

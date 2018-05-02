@@ -323,15 +323,17 @@ header å{
 /*////////// LOGO //////////*/
 
 #logo {
-    padding: 84px;   
+    padding: 84px 0 0;   
 }
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
+  margin: 0;
 }
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+  margin: 0;
 }
 
 /*////////// MAIN SECTIONS //////////*/

@@ -37,8 +37,8 @@ figcaption {
 }
 
 /*////////// BACKGROUNDS //////////*/
-body {
-    background: "images/white-wood.jpg"
+.white-wood {
+    background: url("../images/white-wood.jpg")
 }
 
 

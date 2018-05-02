@@ -37,7 +37,9 @@ figcaption {
 }
 
 /*////////// BACKGROUNDS //////////*/
-
+body {
+    background: "images/white-wood.jpg"
+}
 
 
 /*/////// MEDIA ////////*/

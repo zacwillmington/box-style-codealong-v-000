@@ -274,7 +274,7 @@ img, video, audio, iframe, table, form {
 }
 
 /*////////// HEADER //////////*/
-header{
+header å{
     margin: 0 0 30px;
 }
 
@@ -282,7 +282,9 @@ header{
 
 /*////////// NAVBAR //////////*/
 
-
+#navbar {
+    
+}
 
 /*////////// LOGO //////////*/
 
